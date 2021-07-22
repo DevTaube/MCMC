@@ -1,0 +1,6 @@
+settings:
+  start_cooldown: 5
+  min_accel_left: 5000
+  min_accel_right: 5000
+  refresh_rate_left: 5
+  refresh_rate_right: 5
