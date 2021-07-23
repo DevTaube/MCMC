@@ -33,7 +33,6 @@ time.sleep(start_cooldown)
 # initialize stuff ====================================================================================================
 joycon_r = JoyCon(*get_R_id())
 joycon_l = JoyCon(*get_L_id())
-old_output = [0, 0, 0, 0, 0, 0]
 time_below_min = [0, 0]
 # main loop ====================================================================================================
 print('Program started.')
