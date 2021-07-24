@@ -23,6 +23,7 @@ For those of you who already connected their Joycons to their PC and got Betterj
 
 # How to use (using the python script)
 Now to the good part. When you have downloaded the program, keep every file together in the same directory.
+When using it the first time, run *setup.bat*.
 If you want, you can change the settings in the config.yml file. I wouldn't change it tho, just to be sure.
 All you have to do now is run the batchfile and it should run. It could happen that it doesn't run because Python is stored as "python3" and not "python" in your path.
 If thats the case just quickly edit the batchfile. Quickly change the window to Minecraft, wait for the cooldown to end and have fun!
