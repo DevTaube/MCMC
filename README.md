@@ -22,8 +22,8 @@ For those of you who already connected their Joycons to their PC and got Betterj
 3. Launch Minecraft: Windows 10 Edition to test it
 
 # How to use (using the python script)
-Now to the good part. When you have downloaded the program, keep every file together in the same directory.
 When using it the first time, run *setup.bat*.
-If you want, you can change the settings in the config.yml file. I wouldn't change it tho, just to be sure.
-All you have to do now is run the batchfile and it should run. It could happen that it doesn't run because Python is stored as "python3" and not "python" in your path.
-If thats the case just quickly edit the batchfile. Quickly change the window to Minecraft, wait for the cooldown to end and have fun!
+There is also a *config.yml* if you want to mess with the program.
+If you want to uninstall all modules that this program uses run *uninstall.bat*.
+If python is in your path, just run on *run.bat*. If it isn't, either create a batch file yourself or run in manually from the command line.
+Quickly change the window to Minecraft, wait for the cooldown to end and have fun!
