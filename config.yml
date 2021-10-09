@@ -1,0 +1,6 @@
+settings:
+  start_cooldown: 3
+  min_accel_left: 2000
+  min_accel_right: 2000
+  hold_time_left: 3
+  hold_time_right: 3
