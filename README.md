@@ -25,5 +25,5 @@ For those of you who already connected their Joycons to their PC and got Betterj
 When using it the first time, run *setup.bat*.  
 There is also a *config.yml* if you want to mess with the program.  
 If you want to uninstall all modules that this program uses run *uninstall.bat*.  
-If python is in your path, just run on *run.bat*. If it isn't, either create a batch file yourself or run in manually from the command line.  
+If python is in your path, just execute *run.bat*. If it isn't, either create a batch file yourself or run in manually from the command line.  
 Quickly change the window to Minecraft, wait for the cooldown to end and have fun!  
